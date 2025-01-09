@@ -11,8 +11,8 @@ I'm Dewitt—some people call me DJ for short. I've been building websites and w
 
 - 🔭 I’m currently working as **Freelance Web Developer**
 - 🌱 I’m currently learning **eCommerce**
-- 👯 I’m looking to collaborate on fun, open-source projects
-- 🤔 I’m looking for help with digital marketing and SEO.
+- 👯 I’m looking to collaborate on **fun, open-source projects**
+- 🤔 I’m looking for help with **digital marketing and SEO**
 - 💬 Ask me about **building a website or web app**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dewittbuck/), [Email](mailto:dewitt@zerodaedal.us), [Text](tel:+12095024678)
-- ⚡ Fun fact: I'm also a **professional Dungeon Master**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dewittbuck/), [Email](mailto:dewitt@zerodaedal.us)
+- ⚡ Fun fact: I'm also a **professional Dungeon Master**
