@@ -1,9 +1,8 @@
-## Howdy! 🤠
+<h2 align="center">Howdy! 🤠</h2>
 
 <p align="center">
     Programmer | Designer | Consultant
 </p>
-
 ---
 
 ### ✨ My Mission
