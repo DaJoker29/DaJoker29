@@ -1,10 +1,8 @@
-<h2 align="center">Howdy! 🤠</h2>
+### Howdy! 🤠
 
-<p align="center">
-    Programmer | Designer | Consultant
-</p>
+Programmer | Designer | Consultant
 
-### ✨ My Mission
+## ✨ My Mission
 
 I'm Dewitt—some people call me DJ for short. I've been building websites and web apps since I was 12 years old. I'm naturally curious about everything but obsessed with finding new ways to use the web in growing small businesses and nonprofits.
 
